@@ -1,7 +1,12 @@
 aid: jetblue-airways
-url: https://raw.githubusercontent.com/api-evangelist/jetblue-airways/refs/heads/main/apis.yml
+url: 
+  https://raw.githubusercontent.com/api-evangelist/jetblue-airways/refs/heads/main/apis.yml
 modified: '2026-03-21'
 apis: []
 common:
   - type: Website
     url: https://www.jetblue-airways.com
+description: >-
+  JetBlue Airways is a low-cost airline that operates flights to destinations across
+  the United States, Caribbean, Latin America, and Europe, known for its customer
+  service and inflight amenities.
