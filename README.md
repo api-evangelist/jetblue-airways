@@ -1,22 +1,20 @@
 # JetBlue Airways (jetblue-airways)
-JetBlue Airways is a Fortune 500 company. This repository captures the APIs, developer tools, and machine-readable API artifacts for JetBlue Airways.
+JetBlue Airways is a low-cost airline that operates flights to destinations across the United States, Caribbean, Latin America, and Europe, known for its customer service and inflight amenities.
 
 **URL:** [Visit APIs.json URL](https://raw.githubusercontent.com/api-evangelist/jetblue-airways/refs/heads/main/apis.yml)
 
 ## Scope
 
-- **Type:** Contract
-- **Position:** Consuming
-- **Access:** 3rd-Party
+- **Type:** Index
 
 ## Tags:
 
- - Fortune 500
+ - Airlines, Aviation, Fortune 500, Travel
 
 ## Timestamps
 
 - **Created:** 2026-03-21
-- **Modified:** 2026-03-21
+- **Modified:** 2026-04-28
 
 ## APIs
 
@@ -24,10 +22,13 @@ No public APIs have been documented yet. Contributions welcome.
 
 ## Common Properties
 
-- [Website](https://www.jetblue-airways.com)
+- [Website](https://www.jetblue.com)
+- [Investor Relations](https://investor.jetblue.com)
+- [Careers](https://careers.jetblue.com)
+- [Press](https://news.jetblue.com)
 
 ## Maintainers
 
-**FN:** API Evangelist
+**FN:** Kin Lane
 
-**Email:** info@apievangelist.com
+**Email:** kin@apievangelist.com
