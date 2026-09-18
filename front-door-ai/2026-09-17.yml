@@ -1,0 +1,25 @@
+# Front Door AI Index — jetblue-airways — 2026-09-17
+# AI vocabulary counted on the provider's root page. Generated; do not edit.
+# `score` is null unless ownership is `own` — see front_door_ai.py.
+front_door_ai:
+  slug: jetblue-airways
+  lexicon_version: '1.0'
+  probed_at: '2026-09-17'
+  host: www.jetblue.com
+  final_host: www.jetblue.com
+  ownership: shared
+  owner: jetblue
+  shares_host_with:
+  - jetblue
+  inherited_from: null
+  verdict: silent
+  score: null
+  host_score: 0
+  density: null
+  words: 212
+  tiers:
+    agentic: 0
+    core: 0
+    model: 0
+  ambiguous: 0
+  top_terms: null
